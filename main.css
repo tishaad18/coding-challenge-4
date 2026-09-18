@@ -20,3 +20,9 @@ h1 {
 h2 {
 	color: hotpink;
 }
+
+h3 {
+	color: lightblue;
+	font-style: italic;
+	font-weight: 300;
+}
